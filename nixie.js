@@ -1,3 +1,5 @@
+console.log("JavaScript is working!");
+
 const hours = document.querySelector('.hours')
 const mins = document.querySelector('.mins')
 const secs = document.querySelector('.secs')
